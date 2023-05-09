@@ -20,17 +20,17 @@ Go is used in a variety of applications, including web development, systems prog
 Functional programming is getting very popular and focuses on pure functions. Functional apps avoid shared state and tend to be more concise and predictable. In this course, Mirac will teach you how to code less and what's important when building apps over a basic go course.
 
 # List of topics for this course
-Arrays
-Channels
-Conditionals
-Defer statement
-Error handling
-For range
-Functions
-Interfaces
-Loops
-Maps
-Pointers
-Slices
-Structs
-Veriables
+- Arrays
+- Channels
+- Conditionals
+- Defer statement
+- Error handling
+- For range
+- Functions
+- Interfaces
+- Loops
+- Maps
+- Pointers
+- Slices
+- Structs
+- Veriables
